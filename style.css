@@ -1,0 +1,66 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: aqua;
+}
+.Dev{
+    margin-left: 15em;
+    margin-top: 1em;
+    font-size: 39px;
+
+}
+.Signup{
+    background-color: rgb(96, 177, 177);
+    height: 60%;
+    width: 35%;
+    margin: 3em 30em;
+    border: 2px solid black;
+    border-radius: 30px 30px;
+    backdrop-filter: blur(30px);
+
+}
+.Signup h1{
+    margin-left: 105px;
+    margin-bottom: 20px;
+    margin-top: 5px;
+    font-style: italic;
+}
+.Signup input{
+    padding: 5px;
+    margin-left: 105px;
+    width: 245px;
+    margin-bottom: 15px;
+    margin-top: 5px;
+}
+.Signup input :hover{
+    cursor: pointer;
+    width: 248px;
+    padding: 7px;
+
+}
+.Signup p{
+    margin-left: 105px;
+    font-weight: bold;
+
+}
+.login{
+    padding-left: 20px;
+    padding-bottom: 15px;
+
+}
+.btn{
+    padding: 5px;
+    margin-left: 105px;
+    width: 260px;
+    margin-bottom: 15px;
+    margin-top: 5px;
+    background-color: aqua;
+    font-size: 16px;
+}
+.btn:hover{
+    cursor: pointer;
+    background-color: green;
+    color: white;
+}
